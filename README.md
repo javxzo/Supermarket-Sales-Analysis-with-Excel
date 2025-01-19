@@ -1,6 +1,6 @@
 # Supermarket Sales Dashboard 📊
 
-This project is to showcase my incredible 2013 Excel skills! Please give me a newer version.
+This project is to showcase my 2013 Excel skills! Please give me a newer version.
 This project features an Excel and SQL-based dashboard designed to visualize supermarket sales data in multiple ways - we get a couple of different views of sales metrics, top products, category percentages, and more - all helping to analyze trends and performance across different dimensions.
 
 Side note: Excel 2013 does NOT have an area map... unfortunately. 
